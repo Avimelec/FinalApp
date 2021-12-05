@@ -1,0 +1,18 @@
+/*eslint-disable-next-line*/
+.image-upload__preview{
+    width: 12rem;
+    height: 12rem;
+    border: 1px solid #222;
+    /*eslint-disable-next-line*/
+    display: flex;
+    /*eslint-disable-next-line*/
+    justify-content: flex-end;
+    /*eslint-disable-next-line*/
+    align-items: flex-end;
+}
+/*eslint-disable-next-line*/
+.image-upload__preview img{
+    width: 100%;
+    height: 100%;
+    object-fit:fill;
+}
